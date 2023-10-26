@@ -53,8 +53,6 @@ plt.show()
 # %%
 import pandas as pd
 
-# Membuat DataFrame untuk Stok Barang
-import pandas as pd
 
 # Membaca data dari file CSV 
 data_toko = pd.read_csv('data_toko.csv')
